@@ -1,0 +1,2 @@
+# Study-Learn-Teach
+Our target audience is designed for students from elementary school, middle school, and high school as well as for adults who forget the basic subject topics.  However, the material we are providing in our website “Children Education” is aimed not only for students but everyone who is interested in learning, reviewing, or using this information. In other words, every individual who can find our web content useful.
