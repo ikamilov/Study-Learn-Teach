@@ -1,0 +1,137 @@
+<!DOCTYPE>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta author = "author" content = "Islam">
+	<title>Study Learn Teach</title>	
+	<link rel="stylesheet" type = "text/css" href = "css/site.css">
+	<link rel = "stylesheet" type = "text/css" href = "css/navbar.css">
+	<script type="text/javascript" src="js/scripts.js"></script>
+</head>
+<body>
+<div class = "container">
+ <div class="top"  style= "background:#32948D">
+ 	<a href="index.html"><img src="img/logo.jpg"></a>
+  </div>
+<div>
+  <ul class="navigation">
+    <li><a href="index.html" >Home</a></li>
+   
+     <li class="dropdown">
+			<a href="javascript:void(0)" onclick="myFunction()" class="dropbtn">Subjects</a>
+  			<div id="myDropdown" class="dropdown-content">
+       			  <a href="art.html" >Art</a>
+       			 <a href="writing.html">Writing<a>
+       			 <a href="biology.html" >Biology</a>
+       			 <a href="chemistry.html" >Chemistry</a>
+       			 <a href="math.html" >Math</a>
+  			</div>
+	</li>
+	<li><a href="parents.html" >Parents</a></li>
+    <li><a href = "aboutus.html" >About us</a></li>
+    <li><a href="contactus.html" >Contact us</a></li>
+    <div class="clear"></div>
+  </ul>
+  
+</div>
+<div class="contactside">
+		<h3 class="sideline" style="text-align: center">Contact Information</h3>
+		<p><b>Our Office</b></p>
+		<p>11929 W Airport Blvd, Stafford TX 77477</p>
+		<p><b>Office Hours</b></p>
+		<p>Monday - Thursday: 8:30am to 7:00pm</p>
+		<p>Friday - Saturday: 9:00am to 5:30pm</pm>
+		<p>Sunday: Closed</p>
+		<p><b>Contact us</b></p>
+		<a href="tel:832-230-5555"><img src="img/phone.jpg" class="sidephonemail"></a>
+		<a href="mailto:admissions@na.edu"><img src="img/mail.jpg" class="sidephonemail">	</a>
+		
+</div>	
+	
+
+<div class="contactmain">
+	<h2 class="sideline" style="text-align: center">Contact Us</h2>
+	<form action="" method="get" onsubmit="return confirmSubmit()">
+		<p>First Name <br />
+			<input type="text" name="first_name" id="firstname" size="50" value="Enter Your First Name" onclick="if (this.value == 'Enter Your First Name') this.value = '';"/>
+		</p>
+		<p>Last Name <br />
+			<input type="text" name="last_name" id="lastname" size="50" value="Enter Your Last Name" onclick="if (this.value == 'Enter Your Last Name') this.value = '';"/>
+		</p>
+		<p>E-mail Address <br />
+			<input type="text" name="email" id="email"size="50" value="Enter your E-mail Address" onclick="if (this.value == 'Enter your E-mail Address') this.value = '';"/>
+		</p>
+		<p>Phone Number <br />
+			<input type="text" name="phone" id="phone" size="50" value="Enter Your Phone Number" onclick="if (this.value == 'Enter Your Phone Number') this.value = '';"/>
+		</p>
+		<p>Subjects 
+			<select name="subject_type" id="subjecttype" >
+				<option value="unselected">Select a Subject Type</option>
+				<option value="art">Art</option>
+				<option value="biology">Biology</option>
+				<option value="chemistry">Chemistry</option>
+				<option value="computer">Computer</option>
+				<option value="math">Mathematics</option>
+				<option value="writing">Writing</option>
+				<option value="other">Other</option>
+			</select>
+		</p>
+		<div id="divother" style="display: none;">
+			<p>Other
+				<input type="text" name="othertext" size="50" value="Enter Other Subject Type" onclick="if (this.value == 'Enter Other Subject Type') this.value = '';" /></p></div>
+		<fieldset>
+			<legend>Comment</legend>
+			<textarea rows="20" cols="80" name="comment" id="comment">
+			
+			</textarea>
+			
+		</fieldset>
+		<p>How should we contact you? 
+			<input type="radio" name="contactHow" value="call_me" /> Call me
+			<input type="radio" name="contactHow" value="e-mail_me" /> E-mail me
+		</p>
+		<p><input type="submit" /></p>
+		 <span id="result"></span>
+           <input type="button" value="See Your Form" onClick="pr()"/>
+		
+	</form>
+</div>
+
+
+
+<div class="quote" style="background: #32948D">
+	<blockquote>Education is the key to success in life, and teachers make a lasting impact in the lives of their students.
+		<footer>
+			<a href="https://www.brainyquote.com/slideshow/topics/top_10_education_quotes.html">Solomon Ortiz</a>
+		</footer>
+	</blockquote>
+</div>
+
+
+<footer>
+	<div class="social">
+		<h4>Follow us on Social</h4>
+		<a href="https://www.facebook.com/NorthAmericanUniversity/?hc_ref=NEWSFEED&fref=nf"><img src="img/facebook.jpg" class="sociallogo"></a>	
+		<a href="https://www.linkedin.com/edu/school?id=354053&trk=tyah&trkInfo=clickedVertical%3Aschool%2CclickedEntityId%3A354053%2Cidx%3A3-1-6%2CtarId%3A1480029533044%2Ctas%3Anorth%20american%20univ"><img src="img/linkedin.jpg" class="sociallogo"></a>	
+		<a href="https://www.instagram.com/northamericanu/"><img src="img/instagram.jpg" class="sociallogo"></a>	
+		<a href="https://twitter.com/NorthAmericanU"><img src="img/twitter.jpg" class="sociallogo"></a>	
+		<a href="https://www.youtube.com/channel/UC_SzS4Epal-GDKn9w3wkXdA"><img src="img/youtube.jpg" class="sociallogo"></a>	
+	</div>
+	<div class="footer">
+		<a href="index.html">Home</a>
+		<a href="privacy.html">Privacy</a>
+		<a href="aboutus.html">About us</a>
+		<a href="contactus.html">Contact us</a>
+		<p>&copy; Copyright. 2016. All Rights Reserved. Educate Children.</p>
+	</div>
+	
+</footer>
+		
+	
+		
+
+
+</div>
+
+</body>
+</html>
