@@ -1,0 +1,22 @@
+h1
+{
+  color:black;
+  font-size: 40px;
+}
+h2,h3
+{
+  font-size: 30px;
+  text-align: left;
+  padding: 0px;
+  margin: 15px;
+}
+body
+{
+  padding: 0px;
+  background: lightgray;
+}
+
+
+h5
+
+li span {font-weight: bold; font-size: 30px;}

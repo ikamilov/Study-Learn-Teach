@@ -1,0 +1,102 @@
+*{
+margin: 0;
+padding: 0;
+
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+}
+
+
+/*Styling Images from Art High School Page*/
+
+#artp3p1,#artp3p2,#artp3p3,#artp3p4,#artp3p5,#artp3p6{
+
+display:block;
+margin-right:auto;
+margin-left:auto;
+padding: 20px;
+border:1px solid #021a40;
+background-color:white;
+
+
+}
+
+img#p1{
+
+display:block;
+margin-right:auto;
+margin-left:auto;
+padding: 20px;
+
+}
+
+/*Styling Images from Art Introduction Page.*/
+
+img#mona{
+
+
+border-radius: 50px;
+background-repeat: repeat;
+padding: 20px;
+
+}
+
+img#pic2{
+
+display:block;
+margin-right:auto;
+margin-left:auto;
+border-radius: 40px;
+padding: 20px;
+}
+
+img#pic3{
+
+display:block;
+margin-right:auto;
+margin-left:auto;
+border-radius: 40px;
+padding: 20px;
+}
+
+/*Styling Body*/
+
+body{
+
+background-image:url(../artimg/bg0.jpg);
+background-color:#11928E;
+font-family:"Times New Roman", Helvetica, Arial, sans-serif;
+}
+.art {
+	font-size:1.4em;
+	}
+p,li{
+
+line-height: 1.50em;
+
+
+}
+
+/*Styling Headers*/
+
+h1{
+
+color:black;
+font-family: "Times New Roman", Arial, Georgia;
+
+}
+
+h2,h3,h5,h6,h7{
+
+color:#096201;  
+font-family: "Times New Roman", Arial, Georgia;
+
+}
+
+p{
+	
+margin-bottom: 0.625em;
+
+}
+
+

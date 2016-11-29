@@ -1,0 +1,39 @@
+h1
+{
+  color:white;
+  font-size: 40px;
+}
+h2,h3,h6
+{
+  font-size: 30px;
+  text-align: left;
+  padding: 0px;
+  margin: 15px;
+}
+h5
+{
+  font-size: 30px;
+  text-align: left;
+  padding: 0px;
+  margin: 15px;
+}
+
+
+body
+{
+  padding: 0px;
+  background: lightgray;
+}
+
+
+h5
+{
+  font-size: 40px;
+
+}
+
+c span {font-weight: bold; font-size: 20px;}
+a  span{font-weight: normal; font-size: 15px;}
+li spans {font-weight: normal; font-size: 15px;margin:auto;}
+li span {font-weight: bold; font-size: 20px;margin:auto;}
+b span {font-weight: bold; font-size: 30px;margin:auto;}
