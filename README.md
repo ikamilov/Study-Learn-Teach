@@ -23,12 +23,12 @@ Our team is going to use the material learnt through the class based on HTML, CS
 
 The final project is expected to be a simple but resourceful source of information built using the tools stated before. The content of this educational website will include all of the following:
 
-•	Learn basic and important concepts in the fields of Science.
-•	Learn basic and important concepts in the fields of Math.
-•	Learn basic and important concepts in the fields of Nature.
-•	Learn basic and important concepts in the fields of Literature and History.
-•	Educational games using links for Adobe Flash Applications.
-•	Pictures and videos related to the selected topics.
+•	Learn basic and important concepts in the fields of Science.							
+•	Learn basic and important concepts in the fields of Math.							
+•	Learn basic and important concepts in the fields of Nature.							
+•	Learn basic and important concepts in the fields of Literature and History.						
+•	Educational games using links for Adobe Flash Applications.							
+•	Pictures and videos related to the selected topics.								
 •	Tips to easy the understanding of key concepts.
 
 Our measure of success will be obtainable by dividing the work and each section. We will maintain communication regularly to keep track of our project; at the same time we might consult our teacher to provide feedback and fruitful ideas for the project 	to be finished in the best shape possible.
@@ -42,7 +42,7 @@ We are going to create a table in Microsoft Word or Excel to keep track of our p
 
 
 #	1.	Background Information
-	What is the purpose of the website?
+What is the purpose of the website?
 The purpose of our website “Children Education” is to provide basic, and middle level material for students who are interested in subjects such as Arts, Math, Writing, Science, etc. Our information is thought to be non-profitable, and the website’s purpose is to help students and provide this information for free.
 
 
