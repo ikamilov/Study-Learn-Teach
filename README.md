@@ -1,6 +1,8 @@
 # Study-Learn-Teach
 Our target audience is designed for students from elementary school, middle school, and high school as well as for adults who forget the basic subject topics.  However, the material we are providing in our website “Children Education” is aimed not only for students but everyone who is interested in learning, reviewing, or using this information. In other words, every individual who can find our web content useful.
 
+#"KNOWLEDGE IS POWER"
+
 # I.	Section 1: Brief Description
 
 Our target audience is designed for students from elementary school, middle school, and high school. However, the material we are providing in our website “Children Education” is aimed not only for students but everyone who is interested in learning, reviewing, or using this information. In other words, every individual who can find our web content useful.
@@ -35,7 +37,10 @@ Our measure of success will be obtainable by dividing the work and each section.
 
 #	5.	Scope Management Issues
 
-We are going to create a table in Microsoft Word or Excel to keep track of our project progress. This will include meetings, group work, and individual work. 
+We are going to create a table in Microsoft Word or Excel to keep track of our project progress. This will include meetings, group work, and individual work.
+
+# 6. Enhance Competitive Level Of Individuals
+We Will Conduct Regular Quizzes And Short MCQ's Exams To Grow Competitve Level For Future!
 
 
 # III.	Section 3: Project Requirements
